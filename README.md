@@ -9,7 +9,7 @@
 <p align="center">
     <a href="#sobre">About</a>  |     
     <a href="#tecnologias">Technologies</a>  |  
-    <a href="#equipe">Team</a>  |  
+    <a href="#equipe">Team</a>
 </p>
 
 <span id="sobre">
